@@ -16,7 +16,7 @@ pythonz-bd==1.11.4
 pytz==2020.1
 requests==2.23.0
 resumable-urlretrieve==0.1.6
-six==1.11.0
+six==1.14.0
 snowballstemmer==1.2.1
 Sphinx==1.6.3
 sphinx-click==1.3.0
