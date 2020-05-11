@@ -13,7 +13,7 @@ pbr==5.4.5
 -e .
 Pygments==2.6.1
 pythonz-bd==1.11.4
-pytz==2018.5
+pytz==2020.1
 requests==2.20.1
 resumable-urlretrieve==0.1.5
 six==1.11.0
