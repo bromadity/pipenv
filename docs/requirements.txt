@@ -20,7 +20,7 @@ six==1.14.0
 snowballstemmer==2.0.0
 Sphinx==3.0.3
 sphinx-click==2.3.2
-sphinxcontrib-spelling==4.2.1
+sphinxcontrib-spelling==5.0.0
 sphinxcontrib-websupport==1.1.0
 urllib3==1.24.1
 virtualenv==16.1.0
