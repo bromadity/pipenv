@@ -24,4 +24,4 @@ sphinxcontrib-spelling==5.0.0
 sphinxcontrib-websupport==1.2.2
 urllib3==1.25.9
 virtualenv==20.0.20
-virtualenv-clone==0.4.0
+virtualenv-clone==0.5.4
